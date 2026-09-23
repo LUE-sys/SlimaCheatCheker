@@ -1,1 +1,1 @@
-# SlimaCheatCheker
+# SlimeCheatCheker
